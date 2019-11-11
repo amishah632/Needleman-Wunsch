@@ -42,11 +42,13 @@ for tests:
 
 EXAMPLE: (seq1 = "SUM", seq2="SAM", GP = -2, match = 5, mismatch = 5)
 
-        S  U  M
-     0 -2 -4 -6
-  S -2  5  3  1
-  A -4  3  1 -1
-  M -6  1 -1  6
+          S  U  M
+        0 -2 -4 -6
+     S -2  5  3  1
+     A -4  3  1 -1
+     M -6  1 -1  6
+     
+   (SCORING MATRIX)
   
   
   Possible alignments:
