@@ -1,0 +1,42 @@
+Alignment 1:
+G-ATT-AC-A
+| | |  |  
+GCA-TG-CU-
+Score: 8
+
+Alignment 2:
+G-ATT-ACA-
+| | |  |  
+GCA-TG-C-U
+Score: 8
+
+Alignment 3:
+G-ATTA-C-A
+| | |  |  
+GCA-T-GCU-
+Score: 8
+
+Alignment 4:
+G-ATTA-CA-
+| | |  |  
+GCA-T-GC-U
+Score: 8
+
+Alignment 5:
+G-AT-TAC-A
+| ||   |  
+GCATG--CU-
+Score: 8
+
+Alignment 6:
+G-ATTA-CA-
+| ||   |  
+GCAT--GC-U
+Score: 8
+
+Alignment 7:
+G-ATTA-C-A
+| ||   |  
+GCAT--GCU-
+Score: 8
+
