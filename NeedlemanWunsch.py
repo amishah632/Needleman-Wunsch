@@ -154,6 +154,7 @@ if __name__ == "__main__":
             for i in range(0, len(as1)):
                 opfile.write("Alignment: %s\n%s\n%s\n%s\n\n" % (i+1, as1[i], match[i], as2[i]))
                 print("\nAlignment ", i+1, ":\n", as1[i], "\n", match[i], "\n", as2[i])
+            opfile.write("Score: %s" % (scoring_matrix[len(sequence1)][len(sequence2)]))
             opfile.close()
         else:
             print("Only DNA or mRNA sequence is allowed")
